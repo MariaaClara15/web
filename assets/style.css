@@ -2,10 +2,7 @@ body {
     background-color: rgb(244, 196, 255);
 }
 footer {
-    background-color: black;
-    color: white;
-    footer {
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     color: white;
     bottom:0;
     position:fixed;
